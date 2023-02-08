@@ -1,0 +1,57 @@
+body{
+	margin:auto;text-align:center;
+	}
+
+#wrapper{
+	width:749px;
+	margin:auto;
+	font-size:12px;
+	}
+
+#frame1{
+	width:695px;
+	margin:auto;
+	}
+	
+#user_area_frame1{
+	min-height:50px;
+	padding:10px 0;
+	font-size:24px;
+	}
+	
+#bg_top {
+	background:url(/uploadFiles/img/giza/kvdt06img_01.gif) no-repeat;
+	height:25px;
+	width:749px;
+	margin:auto;
+	}
+	
+#bg_middle {
+	background:url(/uploadFiles/img/giza/kvdt06img_03.jpg) repeat-x #AEFF00;
+	border-left:solid 1px #a5f000;
+	border-right:solid 1px #a5f000;
+	width:749px;
+	margin:auto;
+	padding:20px 0;
+	}
+	
+#bg_bottom {
+	background:url(/uploadFiles/img/giza/kvdt06img_02.gif) no-repeat;
+	height:22px;
+	width:749px;
+	margin:auto;
+	}
+	
+#frame2{
+	background:url(/uploadFiles/img/giza/kvdt06img_05.gif) repeat-y;
+	width:695px;
+	margin:0 auto;
+	}
+	
+#user_area_frame2{
+	padding:15px 20px;
+	text-align: left;
+	}
+
+.bottom {
+	}
